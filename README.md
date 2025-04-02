@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @caio-andres;
-- 🌱 Typescript | React | NestJS | Node.js | SQL | APIs | Docker | TypeORM | Git | KanBan | Server & Client side;
-- 💞️ I’m collaborating as a Fullstack Developer;
-- 👀 Open to work;
-- 📫 How to reach me: e-mail - caioandres2112@gmail.com;
-- 💡 English | Portuguese | Spanish
-🇧🇷
+# 👨🏻‍💻 Desenvolvedor FullStack  
+
+**Cursando Bacharelado em Ciência da Computação** (7º/8º semestre) na **Universidade São Judas Tadeu**.  
+
+## 📱 Produção de Conteúdo  
+Produzo conteúdo educativo e de humor voltado à área de programação nas redes sociais.  
+
+## ⬇️ Ensino de Programação  
+Aqui ensinei **+100 alunos** a programarem do zero ao avançado:  
+[YouRoadmaps](https://youroadmaps.com)
