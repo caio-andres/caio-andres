@@ -18,6 +18,6 @@ Produzo conteúdo educativo e de humor voltado à área de programação nas red
 ![API REST](https://img.shields.io/badge/-API%20REST-005571?style=flat-square&logo=postman&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) 
-![TypeORM](https://img.shields.io/badge/-TypeORM-FF6C37?style=flat-square&logo=typeorm&logoColor=white) 
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Kanban](https://img.shields.io/badge/-Kanban-026AA7?style=flat-square&logo=trello&logoColor=white)  
