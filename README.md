@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 **Desenvolvedor FullStack | Fundador @YouRoadmaps**  
 
-Cursando Bacharelado em Ciência da Computação (7º/8º semestre) na Universidade São Judas Tadeu, fissurado por tirar ideias do papel através de código, academia, empreendimento e arte marcial.
+Cursando Bacharelado em Ciência da Computação (7º/8º semestre) na Universidade São Judas Tadeu, fissurado por tirar ideias do papel através de código, propositós, academia, empreendimento e arte marcial.
 
 Produzo conteúdo educativo e de humor voltado à área de programação nas redes sociais.  
 
