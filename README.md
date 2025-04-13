@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 **Desenvolvedor FullStack**  
 
-Cursando Bacharelado em Ciência da Computação (7º/8º semestre) na Universidade São Judas Tadeu.  
+Cursando Bacharelado em Ciência da Computação (7º/8º semestre) na Universidade São Judas Tadeu, fissurado por código, academia, empreendimento e jiu-jitsu. 
 
 Produzo conteúdo educativo e de humor voltado à área de programação nas redes sociais.  
 
