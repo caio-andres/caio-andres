@@ -1,4 +1,4 @@
-### 👨🏻‍💻 **FullStack Developer | Founder @YouRoadmaps | Ambassador @Alura**
+## 👨🏻‍💻 **FullStack Developer | Founder @YouRoadmaps | Ambassador @Alura**
 
 Studying a Bachelor's Degree in Computer Science (7th/8th semester) at São Judas Tadeu University, passionate about gym, purpose, tech education, martial arts, and taking ideas off paper through code.
 
@@ -6,7 +6,7 @@ I produce educational and humorous content focused on programming on social medi
 
 ➡️ Here I taught +100 students to program from scratch to advanced: [YouRoadmaps](https://youroadmaps.com)
 
-## Stacks
+### Stacks
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) 
