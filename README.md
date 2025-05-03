@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 **FullStack Developer | Founder @YouRoadmaps | Ambassador @Alura**
 
-Studying a Bachelor's Degree in Computer Science (7th/8th semester) at São Judas Tadeu University, passionate about taking ideas off paper through code, purposes, gym, tech education and martial arts.
+Studying a Bachelor's Degree in Computer Science (7th/8th semester) at São Judas Tadeu University, passionate about gym, purpose, tech education, martial arts, and taking ideas off paper through code.
 
 I produce educational and humorous content focused on programming on social media.
 
