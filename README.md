@@ -6,7 +6,7 @@ I produce educational and humorous content focused on programming on social medi
 
 ➡️ Here I taught +100 students to program from scratch to advanced: [YouRoadmaps](https://youroadmaps.com)
 
-### Stacks
+## Stacks
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) 
@@ -20,6 +20,17 @@ I produce educational and humorous content focused on programming on social medi
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) 
-![Kanban](https://img.shields.io/badge/-Kanban-026AA7?style=flat-square&logo=trello&logoColor=white)  
+![Kanban](https://img.shields.io/badge/-Kanban-026AA7?style=flat-square&logo=trello&logoColor=white)
 
-Brazilian | São Paulo
+## Tech content
+###### +380k followers across platforms
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@caio_andress) 
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@caio_andres) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/caio_andress) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-andres/)
+
+## Visit my Dev Community
+###### +6k members
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/servidordosprogramadores)
+
+###### Brazil | São Paulo
