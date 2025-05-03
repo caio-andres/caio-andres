@@ -1,10 +1,10 @@
-### 👨🏻‍💻 **Desenvolvedor FullStack | Fundador @YouRoadmaps | Embaixador @Alura**  
+### 👨🏻‍💻 **FullStack Developer | Founder @YouRoadmaps | Ambassador @Alura**
 
-Cursando Bacharelado em Ciência da Computação (7º/8º semestre) na Universidade São Judas Tadeu, fissurado por tirar ideias do papel através de código, propositós, academia, empreendimento e arte marcial.
+Studying a Bachelor's Degree in Computer Science (7th/8th semester) at São Judas Tadeu University, passionate about taking ideas off paper through code, purposes, gym, tech education and martial arts.
 
-Produzo conteúdo educativo e de humor voltado à área de programação nas redes sociais.  
+I produce educational and humorous content focused on programming on social media.
 
-➡️ Aqui ensinei +100 alunos a programarem do zero ao avançado: [YouRoadmaps](https://youroadmaps.com)
+➡️ Here I taught +100 students to program from scratch to advanced: [YouRoadmaps](https://youroadmaps.com)
 
 ### Stacks
 
@@ -22,3 +22,4 @@ Produzo conteúdo educativo e de humor voltado à área de programação nas red
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) 
 ![Kanban](https://img.shields.io/badge/-Kanban-026AA7?style=flat-square&logo=trello&logoColor=white)  
 
+Brazilian | São Paulo
