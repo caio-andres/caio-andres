@@ -33,4 +33,4 @@ I produce educational and humorous content focused on programming on social medi
 ###### +6k members
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/servidordosprogramadores)
 
-###### Portugue Native | English Advanced
+###### Native Portuguese | Advanced English
