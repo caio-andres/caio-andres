@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 **FullStack Developer | Founder @YouRoadmaps | Ambassador @Alura**
 
-Studying a Bachelor's Degree in Computer Science (7th/8th semester) at São Judas Tadeu University, passionate about gym, purpose, tech education, martial arts, and taking ideas off paper through code.
+Studying a Bachelor's Degree in Computer Science (7th/9th semester) at São Judas Tadeu University, passionate about gym, purpose, tech education, martial arts, and taking ideas off paper through code.
 
 I produce educational and humorous content focused on programming on social media.
 
@@ -12,13 +12,14 @@ I produce educational and humorous content focused on programming on social medi
 
 ## Tech content
 ###### +380k followers across platforms
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@caio_andress) 
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@caio_andres) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/caio_andress) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-andres/)
+[![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@caio_andress)
+[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tlvzaudibert)
+<a href="https://www.tiktok.com/@caio_andres"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tiktok-square-color-icon.png" alt="TikTok" width="52" height="52" style="border-radius:6px;"/></a>
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/caio-andres/)
+[![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:caioandres2112@gmail.com)
 
 ## Visit my Dev Community
 ###### +6k members
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/servidordosprogramadores)
+[![DISCORD](https://skillicons.dev/icons?i=discord)](https://discord.gg/servidordosprogramadores)
 
 ###### Native Portuguese | Advanced English
