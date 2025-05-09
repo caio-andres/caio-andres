@@ -13,7 +13,7 @@ I produce educational and humorous content focused on programming on social medi
 ## Tech content
 ###### +380k followers across platforms
 [![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@caio_andress)
-[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tlvzaudibert)
+[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/caio_andres)
 <a href="https://www.tiktok.com/@caio_andres"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tiktok-square-color-icon.png" alt="TikTok" width="52" height="52" style="border-radius:6px;"/></a>
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/caio-andres/)
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:caioandres2112@gmail.com)
