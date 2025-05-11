@@ -6,7 +6,7 @@ I produce educational and humorous content focused on programming on social medi
 
 ➡️ Here I taught +100 students to program from scratch to advanced: [YouRoadmaps](https://youroadmaps.com)
 
-### Stacks
+### Stacks 
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,mongodb,postgres,prisma,tailwind,docker,git)](https://skillicons.dev)
 
