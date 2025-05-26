@@ -19,7 +19,7 @@ I produce educational and humorous content focused on programming on social medi
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:caioandres2112@gmail.com)
 
 ## Visit my Dev Community
-###### +6k members
+###### +7k members
 [![DISCORD](https://skillicons.dev/icons?i=discord)](https://discord.gg/servidordosprogramadores)
 
 ## Languages
