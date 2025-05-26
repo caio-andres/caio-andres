@@ -22,4 +22,6 @@ I produce educational and humorous content focused on programming on social medi
 ###### +6k members
 [![DISCORD](https://skillicons.dev/icons?i=discord)](https://discord.gg/servidordosprogramadores)
 
-###### Native Portuguese | Advanced English
+## Languages
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
+![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Advanced English
