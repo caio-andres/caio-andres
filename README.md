@@ -5,19 +5,20 @@ Studying a Bachelor's Degree in Computer Science (7th/9th semester) at São Juda
 
 I produce educational and humorous content focused on programming on social media.
 
-➡️ Here I taught +100 students to program from scratch to advanced: [YouRoadmaps](https://youroadmaps.com)
+Here I taught +100 students to program from scratch to advanced: [YouRoadmaps](https://youroadmaps.com)
+
+Reach me out here: <a href="mailto:caioandres2112@gmail.com" target="__blank">caioandres2112@gmail.com</a>
 
 ### Stacks 
 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,mongodb,postgres,prisma,tailwind,docker,git)](https://skillicons.dev)
 
-### Tech content
+### Tech content creator
 ###### +380k followers across platforms
 [![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@caio_andress)
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/caio_andress)
 <a href="https://www.tiktok.com/@caio_andres"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tiktok-square-color-icon.png" alt="TikTok" width="52" height="52" style="border-radius:6px;"/></a>
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/caio-andres/)
-[![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:caioandres2112@gmail.com)
 
 ### Visit my Dev Community
 ###### +7k members
