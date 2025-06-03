@@ -1,5 +1,5 @@
 ## 👨🏻‍💻 **Caio André Porto de Oliveira**
-```FullStack Developer | Ambassador @Alura```
+```Data Engineer at @Itaú Unibanco | Ambassador @Alura```
 
 Studying a Bachelor's Degree in Computer Science (7th/9th semester) at São Judas Tadeu University, passionate about gym, purpose, tech education, martial arts, and taking ideas off paper through code.
 
