@@ -1,15 +1,16 @@
 ## 👨🏻‍💻 **Caio André Porto de Oliveira**
 ```Data Engineer @Itaú Unibanco | Ambassador @Alura```
 
+### Stacks 
+
+[![My Skills](https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,mongodb,postgres,prisma,tailwind,docker,git)](https://skillicons.dev)
+
 Studying a Bachelor's Degree in Computer Science (7th/9th semester) at São Judas Tadeu University, passionate about gym, purpose, tech education, martial arts, and taking ideas off paper through code.
 
 Here I taught +100 students to program from scratch to advanced: [YouRoadmaps](https://youroadmaps.com)
 
 Reach me out here: <a href="mailto:caioandres2112@gmail.com" target="__blank">caioandres2112@gmail.com</a>
 
-### Stacks 
-
-[![My Skills](https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,mongodb,postgres,prisma,tailwind,docker,git)](https://skillicons.dev)
 
 ### Tech content creator
 ###### +380k followers across platforms
