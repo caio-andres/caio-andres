@@ -9,7 +9,7 @@ Here I taught +100 students to program from scratch to advanced: [YouRoadmaps](h
 Reach me out here: <a href="mailto:caioandres2112@gmail.com" target="__blank">caioandres2112@gmail.com</a>
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,mongodb,postgres,prisma,tailwind,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,mongodb,postgres,prisma,tailwind,aws,docker,git)](https://skillicons.dev)
 
 ### Tech content creator
 ###### +380k followers across platforms
