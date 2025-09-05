@@ -2,7 +2,7 @@
 
 ```Automation & AI at Itaú Unibanco | Ambassador @Alura```
 
-Studying a Bachelor's Degree in Computer Science (7th/9th semester) at São Judas Tadeu University, passionate about gym, purpose, tech education, martial arts, and taking ideas off paper through code.
+Studying a Bachelor's Degree in Computer Science (8th/9th semester) at São Judas Tadeu University, passionate about gym, purpose, tech education, martial arts, and taking ideas off paper through code.
 
 Here I taught +100 students to program from scratch to advanced: [YouRoadmaps](https://youroadmaps.com)
 
