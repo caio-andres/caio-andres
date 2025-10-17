@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 **Caio André Porto de Oliveira**
 
-```Automation & AI at Itaú Unibanco | Ambassador @Alura```
+```Software Engineering & AI at Itaú Unibanco | Ambassador @Alura```
 
 Studying a Bachelor's Degree in Computer Science (8th/9th semester) at São Judas Tadeu University, passionate about gym, purpose, tech education, martial arts, and taking ideas off paper through code.
 
