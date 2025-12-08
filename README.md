@@ -12,7 +12,7 @@ Reach me out here: <a href="mailto:caioandres2112@gmail.com" target="__blank">ca
 [![My Skills](https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,mongodb,postgres,prisma,tailwind,aws,docker,git)](https://skillicons.dev)
 
 ### Tech content creator
-###### +380k followers across platforms
+###### +400k followers across platforms
 [![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@caio_andress)
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/caio_andress)
 <a href="https://www.tiktok.com/@caio_andres"><img src="https://static.vecteezy.com/system/resources/previews/019/874/380/large_2x/tiktok-apps-icon-free-png.png" alt="TikTok" width="52" height="52" style="border-radius:6px;"/></a>
