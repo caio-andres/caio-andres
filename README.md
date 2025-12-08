@@ -15,7 +15,7 @@ Reach me out here: <a href="mailto:caioandres2112@gmail.com" target="__blank">ca
 ###### +380k followers across platforms
 [![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@caio_andress)
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/caio_andress)
-<a href="https://www.tiktok.com/@caio_andres"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tiktok-square-color-icon.png" alt="TikTok" width="52" height="52" style="border-radius:6px;"/></a>
+<a href="https://www.tiktok.com/@caio_andres"><img src="https://static.vecteezy.com/system/resources/previews/019/874/380/large_2x/tiktok-apps-icon-free-png.png" alt="TikTok" width="52" height="52" style="border-radius:6px;"/></a>
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/caio-andres/)
 
 ### Visit my Dev Community
