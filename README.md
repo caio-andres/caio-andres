@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 **Caio André Porto de Oliveira**
 
-```[Software Engineer at Itaú Unibanco] [Ambassador @Alura] [Founder @Servidor dos Programadores]```
+[```Software Engineer at Itaú Unibanco```] [```Ambassador @Alura```] [```Founder @Servidor dos Programadores```]
 
 Studying a Bachelor's Degree in Computer Science (8th/9th semester) at São Judas Tadeu University, passionate about gym, purpose, tech education, martial arts, and taking ideas off paper through code.
 
