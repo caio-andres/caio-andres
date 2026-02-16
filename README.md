@@ -6,8 +6,6 @@
 
 Studying a Bachelor's Degree in Computer Science (8th/9th semester) at São Judas Tadeu University, passionate about gym, purpose, tech education, martial arts, and taking ideas off paper through code.
 
-Taught +100 students to program from scratch to advanced: https://youroadmaps.com
-
 Reach me at: caioandres2112@gmail.com
 
 ### Stacks
