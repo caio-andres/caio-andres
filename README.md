@@ -2,7 +2,7 @@
 
 `Software Engineer @Itaú Unibanco` · `Ambassador @Alura` · `Founder @Servidor dos Programadores`
 
-<a href="https://miro.medium.com/1*z2yvA4S4HZsEa3R3CNocrw.png"><img src="https://miro.medium.com/1*z2yvA4S4HZsEa3R3CNocrw.png" width="100" height="100"/></a>
+<a href="https://github.com/user-attachments/assets/b6e9ba6a-fc01-441d-9a43-d5f60707f672"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b6e9ba6a-fc01-441d-9a43-d5f60707f672"/></a>
 
 Studying a Bachelor's Degree in Computer Science (8th/9th semester) at São Judas Tadeu University, passionate about gym, purpose, tech education, martial arts, and taking ideas off paper through code.
 
