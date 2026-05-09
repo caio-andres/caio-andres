@@ -18,6 +18,3 @@ Reach me at: caioandres2112@gmail.com
 
 ### Languages
 ```🇧🇷 Portuguese — Native``` · ```🇺🇸 English — Advanced```
-```
-
-Se quiser tirar a borda da tabela, dá pra envolver tudo num `<div>` com style, mas pelo Markdown puro do GitHub a borda fica bem discreta — e os ícones **vão** ficar na mesma linha, garantido.
