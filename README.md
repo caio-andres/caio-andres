@@ -4,19 +4,20 @@ Studying a Bachelor's Degree in Computer Science (9th/9th semester) at São Juda
 
 Reach me at: caioandres2112@gmail.com
 
-<a target="__blank" href="https://www.credly.com/badges/91cc8685-4c19-4f44-a61d-2f0b66158540"><img target="__blank" height="100" width="100" alt="aws-cloud-practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
+<a target="_blank" href="https://www.credly.com/badges/91cc8685-4c19-4f44-a61d-2f0b66158540"><img height="100" width="100" alt="aws-cloud-practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
 
 ### Stacks
 [![My Skills](https://skillicons.dev/icons?i=python,ts,nodejs,postgres,aws,terraform,docker,git)](https://skillicons.dev)
 
 ### Tech Content Creator · +400k followers
-[![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@caio_andress)
-[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/caio_andress)
-<a href="https://www.tiktok.com/@caio_andres"><img src="https://static.vecteezy.com/system/resources/previews/019/874/380/large_2x/tiktok-apps-icon-free-png.png" width="52" height="52" style="border-radius:6px;"/></a>
-[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/caio-andres/)
+
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=youtube" width="48"/>](https://www.youtube.com/@caio_andress) [<img src="https://skillicons.dev/icons?i=instagram" width="48"/>](https://www.instagram.com/caio_andress) [<img src="https://cdn.simpleicons.org/tiktok/000000" width="48"/>](https://www.tiktok.com/@caio_andres) [<img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="48"/>](https://www.linkedin.com/in/caio-andres/)
 
 ### My Dev Community
 [![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/programador)
 
 ### Languages
 ```🇧🇷 Portuguese — Native``` · ```🇺🇸 English — Advanced```
+```
+
+Se quiser tirar a borda da tabela, dá pra envolver tudo num `<div>` com style, mas pelo Markdown puro do GitHub a borda fica bem discreta — e os ícones **vão** ficar na mesma linha, garantido.
