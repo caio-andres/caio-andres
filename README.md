@@ -1,4 +1,4 @@
-`Software Engineer @Itaú Unibanco` . `2+ Years of Experience` · `Ambassador @Alura` · `Founder @Servidor dos Programadores`
+`Software Engineer @Itaú Unibanco` . `2+ Years of Experience` · `Founder @Servidor dos Programadores`
 
 Studying a Bachelor's Degree in Computer Science (9th/9th semester) at São Judas Tadeu University, passionate about gym, purpose, tech education, martial arts, and taking ideas off paper through code.
 
