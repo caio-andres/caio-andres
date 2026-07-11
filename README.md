@@ -13,10 +13,10 @@ Reach me at: caioandres2112@gmail.com
 
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=youtube" width="48"/>](https://www.youtube.com/@caio_andress) [<img src="https://skillicons.dev/icons?i=instagram" width="48"/>](https://www.instagram.com/caio_andress) [<img src="https://cdn.simpleicons.org/tiktok/000000" width="48"/>](https://www.tiktok.com/@caio_andres) [<img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="48"/>](https://www.linkedin.com/in/caio-andres/)
 
-### My Dev Community
-[![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/programador)
-
 ### Languages
 ```🇧🇷 Portuguese — Native``` · ```🇺🇸 English — Advanced```
+
+### My Dev Community
+[![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/programador)
 
 ![gon](81DOBQYf.gif)
