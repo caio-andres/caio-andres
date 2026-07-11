@@ -1,6 +1,6 @@
 `Software Engineer @Itaú Unibanco` . `2+ Years of Experience` · `Founder @Servidor dos Programadores`
 
-Studying a Bachelor's Degree in Computer Science, passionate about gym, purpose, tech education and martial arts.
+Bachelor's Degree in Computer Science, passionate about gym, purpose, tech education and martial arts.
 
 - Back-end, System design, DevOps, Infrastructure, AI.
 - Python, .NET, SQL, AWS, Terraform, AI Agents, RAG.
