@@ -2,7 +2,7 @@
 
 Studying a Bachelor's Degree in Computer Science, passionate about gym, purpose, tech education and martial arts.
 
-- Back-end, System design, DevOps, AI.
+- Back-end, System design, DevOps, Infrastructure, AI.
 - Python, .NET, SQL, AWS, Terraform, AI Agents, RAG.
 - Native Portuguese, Advanced English.
 
