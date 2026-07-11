@@ -19,4 +19,4 @@ Reach me at: caioandres2112@gmail.com
 ### My Dev Community
 [![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/programador)
 
-![gon](81DOBQYf.gif)
+![gon](gon-horizontal.jpg)
