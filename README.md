@@ -1,4 +1,4 @@
-`Software Engineer @Itaú Unibanco` · `2+ Years of Experience` · `Founder @Servidor dos Programadores`
+`Software Engineer at Itaú Bank` · `2+ Years of Experience` · `Founder at Servidor dos Programadores`
 
 Bachelor's Degree in Computer Science, passionate about gym, purpose, tech education and martial arts.
 
