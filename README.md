@@ -11,7 +11,7 @@ Bachelor's Degree in Computer Science, passionate about gym, purpose, tech educa
 
 ### My Developer Community
 https://discord.gg/programador
-[![Discord Server Card](https://cardzera.audibert.dev/api/1530979773986246828?t={timestamp})](https://discord.gg/programador)
+[![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/programador)
 
 Reach me at: caioandres2112@gmail.com
 
